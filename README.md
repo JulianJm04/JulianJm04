@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e88413e5-7107-4906-9d89-bfbd7ec4debc" width="100%" />
+</p>
+
+# Julian Maldonado
 
 <!--
 **JulianJm04/JulianJm04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
