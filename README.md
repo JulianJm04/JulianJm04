@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e88413e5-7107-4906-9d89-bfbd7ec4debc" width="100%" />
+  <img src="https://github.com/user-attachments/assets/5a37b01a-732e-4df0-97e9-90b238923bb1" width="100%" />
 </p>
 
 # Julian Maldonado
